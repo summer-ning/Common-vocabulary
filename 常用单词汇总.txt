@@ -1,0 +1,99 @@
+certificate            证书                           一月 Jan   January  
+terms                  条款，术语                     二月 Feb   February 
+Layout                 布局                           三月 Mar   March    
+manage                 管理                           四月 Apr   April    
+items                  项目/事项                      五月 May   May 
+                                                      六月 June  June
+execution              执行                           七月 July  July     
+feature                特征                           八月 Aug   August   
+release                发布，版本                     九月 Sept  September
+toolchain              工具链                         十月 Oct   October  
+processor              处理器                         十一月Nov  November   
+                                                      十二月Dec  December  
+Secure                 安全
+Parameter              参数
+scope                  范围
+condition              条件
+consent                同意
+
+format                 格式
+access                 访问
+summary                摘要
+diagnostic             诊断
+abort                  退出
+
+utilize                利用
+variant                变种、不同
+multimedia             多媒体
+scenarios              场景
+establish              建立
+
+obtain                 获得
+variable               变量
+extension              延伸、扩展
+instruction            指令
+dispatch               调度
+
+framework              框架
+brief                  简要的/简报
+mutex                  互斥
+method                 方法
+reserve                保留、备用
+
+alternate              备用的\交换
+invoke                 调用
+demonstration          演示
+folder                 文件夹
+database               数据库
+
+Embeded                嵌入式
+facilitate             促进
+registration           注册
+submit                 提交
+Multithreading         多线程
+
+behalf                 代表
+administrator          管理员
+summarize              总结
+resource               资源
+monitor                监测/监控
+
+track                  跟踪
+capture                捕获
+Integrate              整合
+structure              结构体
+subscribe              订阅
+
+scripting              脚本
+implement              实行，执行
+rapid                  快速的
+prototype              原型，样机
+filter                 过滤
+
+declaration            声明，宣称
+feature                特征特性
+post processing        后期处理
+annotation             注释
+macro                  宏
+
+specify                指明
+primary                主要
+Standard               标准
+prompt                 提示
+option                 选项
+
+item                   一条，一项
+export                 输出
+implementer            实施者
+implementation         执行
+convention             约定
+separate               分离
+
+conform                符合
+specification          规格规范
+append                 附加
+
+graphical user interface   图形界面GUI
+file explorer              文件管理器
+Advanced  mode             高级模式
+

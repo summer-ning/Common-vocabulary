@@ -1,0 +1,2 @@
+I am learning Qualcomm chips.There are lots of English documents on the official website,but my English is poor,and it is hard to understand meaning of article，so I want to note this word that I don't know.
+I use github in order to synchronize between my PC and company computer.
